@@ -131,7 +131,7 @@ paru -S chatbox-bin
 
 | Paypal | Wechat Pay | Ali Pay |
 | --- | --- | --- |
-| [**`Paypal`**](https://www.paypal.me/tobennhuang) | <img src="./doc/wechat_pay.JPG" height="240" /> | <img src="./doc/ali_pay.PNG" height="240" /> |
+| [**`Paypal`**](https://www.paypal.me/xxx) | <img src="./doc/xxx.JPG" height="240" /> | <img src="./doc/xxx.PNG" height="240" /> |
 
 ## Star History
 
